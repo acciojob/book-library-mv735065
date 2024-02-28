@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f8f8f8;
+ text-align:center;
+}
+.book-library{
+	background-color:#ffffff;
+}
+.book{
+	margin:20px;
+}
+p{
+	position:relative;
+	left:0px;
+}
+h1{
+	text-align:center;
+}
